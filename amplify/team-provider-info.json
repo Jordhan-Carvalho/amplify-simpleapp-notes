@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "udemy-amplify-dev-20190716091651-authRole",
+            "UnauthRoleArn": "arn:aws:iam::444642468219:role/udemy-amplify-dev-20190716091651-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::444642468219:role/udemy-amplify-dev-20190716091651-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "udemy-amplify-dev-20190716091651-deployment",
+            "UnauthRoleName": "udemy-amplify-dev-20190716091651-unauthRole",
+            "StackName": "udemy-amplify-dev-20190716091651",
+            "StackId": "arn:aws:cloudformation:us-east-1:444642468219:stack/udemy-amplify-dev-20190716091651/981009c0-a7c3-11e9-870d-1253a26d999e"
+        },
+        "categories": {
+            "auth": {
+                "udemyamplify70b273fb": {}
+            }
+        }
+    }
+}
